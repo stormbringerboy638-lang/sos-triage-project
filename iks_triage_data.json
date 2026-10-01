@@ -1,0 +1,7 @@
+[
+    {"condition": "Deep stab wound near collarbone, heavy bleeding", "iks_concept": "Sira Marma injury (Vascular vital point)", "priority": "P1", "department": "Medical", "action": "Immediate dispatch of Advanced Life Support. High risk of rapid exsanguination."},
+    {"condition": "Car accident, unconscious, head trauma", "iks_concept": "Sthapani Marma trauma affecting cognitive centers", "priority": "P1", "department": "Medical, Police", "action": "Dispatch Medical and Police immediately."},
+    {"condition": "Trash can on fire, small flames", "iks_concept": "Agnidagdha (Burn risk - minor)", "priority": "P3", "department": "Fire", "action": "Dispatch local fire unit to contain."},
+    {"condition": "Loud music next door", "iks_concept": "N/A", "priority": "P5", "department": "Police", "action": "Non-emergency police dispatch for noise complaint."},
+    {"condition": "Fallen from height, broken leg", "iks_concept": "Bhagna (Fracture)", "priority": "P2", "department": "Medical", "action": "Dispatch ambulance for immobilization and transport."}
+]

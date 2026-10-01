@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+chromadb
+sentence-transformers
+pydantic
+requests
